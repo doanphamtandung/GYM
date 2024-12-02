@@ -8,7 +8,7 @@
 /* Body styling */
 body {
   font-family: "Roboto", sans-serif;
-  background: linear-gradient(145deg, #d9a7c7, #fffcdc); /* Pastel gradient */
+  background: linear-gradient(145deg, #e06bb5, #bbb578); /* Pastel gradient */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
