@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/gymtes/static/js/main.ae934e2c.js",
+    "main.js": "/gymtes/static/js/main.263a729e.js",
     "index.html": "/gymtes/index.html",
-    "main.ae934e2c.js.map": "/gymtes/static/js/main.ae934e2c.js.map"
+    "main.263a729e.js.map": "/gymtes/static/js/main.263a729e.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae934e2c.js"
+    "static/js/main.263a729e.js"
   ]
 }
