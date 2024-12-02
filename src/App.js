@@ -10,7 +10,7 @@ import Address from "./components/Address";
 const App = () => {
   return (
     <>
-    <Router>
+    <div>
       <Menu />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -19,7 +19,7 @@ const App = () => {
       </Routes>
       <Contact />
       <Address />
-    </Router>
+      </div>
     </>
   );
 };
