@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/gymtes/static/js/main.263a729e.js",
-    "index.html": "/gymtes/index.html",
-    "main.263a729e.js.map": "/gymtes/static/js/main.263a729e.js.map"
+    "main.css": "/gymtest/static/css/main.eb76cc17.css",
+    "main.js": "/gymtest/static/js/main.263a729e.js",
+    "index.html": "/gymtest/index.html",
+    "main.eb76cc17.css.map": "/gymtest/static/css/main.eb76cc17.css.map",
+    "main.263a729e.js.map": "/gymtest/static/js/main.263a729e.js.map"
   },
   "entrypoints": [
+    "static/css/main.eb76cc17.css",
     "static/js/main.263a729e.js"
   ]
 }
